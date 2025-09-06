@@ -78,6 +78,9 @@ http://localhost:5000
 Run Frontend
 Open index.html in your browser (just double-click it).
 It will connect to the backend (http://localhost:5000/api/news) to fetch and display news.
+---
+The Project is deployed on Netlify
+https://quickglimpse.netlify.app/
 
 
 
